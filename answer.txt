@@ -1,0 +1,7 @@
+1.since p is a prime numbwer. 
+So p can only be divided by p itself or 1. 
+So a and b are co-prime 
+with p. So gcd(a,p) == gcd(b,p) == 1; 
+Given by the theorem, p∣a and p∣b is true.
+
+
